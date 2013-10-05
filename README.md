@@ -1,7 +1,7 @@
-autoscroller
+Autoscroller
 ============
 
-Autoscroller based on eye and head tilt movement. OpenCV + Synaptics Touchpad
+Autoscroller for e-books, websites and similar based on eye and head tilt movement. OpenCV + Synaptics Touchpad.
 
 ##### How to run
 
