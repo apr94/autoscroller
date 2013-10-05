@@ -1,0 +1,6 @@
+#ifndef DRAWIMAGE_H
+#define DRAWIMAGE_H
+ 
+void detectFace(IplImage *img);
+ 
+#endif

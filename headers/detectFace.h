@@ -1,0 +1,2 @@
+void detectFace(IplImage *img);
+
